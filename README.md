@@ -1,2 +1,3 @@
-# Fuzzy_Logic_in_Python
-Fuzzy Logic in Python
+# Fuzzy Logic in Python
+
+# Instalação do pacote python Scikit_fuzzy 
